@@ -11,6 +11,8 @@ void main() {
                 Color.fromARGB(255, 25, 1, 67),
               Color.fromARGB(255, 45, 7, 98),
               ],
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
             ),
           ),
           child: const Center(
